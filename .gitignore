@@ -27,3 +27,6 @@ npm-debug.log*
 # Environment
 .env
 .env.local
+.terraform/
+*.tfstate
+*.tfstate.backup
